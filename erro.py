@@ -1,1 +1,2 @@
-print ("Olá mundo 3456789")
+print ("Tá tudo errado essa coisa")
+print (2+2)
